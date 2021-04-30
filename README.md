@@ -7,61 +7,61 @@
 
 :writing_hand: *Actualmente estoy estudiando **REACT** 💪🏻* 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Cakephp</strong></span><br><br><br>
+        <span><strong>Cakephp</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/cakephp-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>PHP</strong></span><br><br><br>
+        <span><strong>PHP</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>MySQL</strong></span><br><br><br>
+        <span><strong>MySQL</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>TypeScript<strong></span><br><br><br>
+        <span><strong>TypeScript<strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Angular</strong></span><br><br><br>
+        <span><strong>Angular</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Ionic</strong></span><br><br><br>
+        <span><strong>Ionic</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ionic-icon.svg">
       </td>     
       <td width="25%" align="center">
-        <span><strong>Firebase</strong></span><br><br><br>
+        <span><strong>Firebase</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+        <span>𝗚𝗶𝘁</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>HTML</strong></span><br><br><br>
+        <span><strong>HTML</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝘀𝘀</span><br><br><br>
+        <span>𝗖𝘀𝘀</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
