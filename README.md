@@ -3,7 +3,7 @@
 
 :computer: *Soy un fullstack developer de Buenos Aires, Argentina*
 
-:vulcan_salute: *Las tecnologias que mas uso actualmente son **JS**,**TS** y **PHP**.* 
+:vulcan_salute: *Las tecnologias que más uso actualmente son **JS**,**TS** y **PHP**.* 
 
 :writing_hand: *Actualmente estoy estudiando **REACT** 💪🏻* 
 
