@@ -7,7 +7,7 @@
 
 :writing_hand: *Actualmente estoy estudiando **REACT** 💪🏻* 
 
-## 𝗠i 𝗦𝘁𝗮𝗰𝗸
+## **Mi Stack**
 
 <table>
   <tbody>
