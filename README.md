@@ -5,7 +5,7 @@
 
 :vulcan_salute: *Las tecnologias que más uso actualmente son **JS**,**TS** y **PHP**.* 
 
-:writing_hand: *Actualmente estoy estudiando **REACT** 💪🏻* 
+:writing_hand: *Actualmente estoy estudiando **NODE.JS** 💪🏻* 
 
 ## **Mi Stack**
 
